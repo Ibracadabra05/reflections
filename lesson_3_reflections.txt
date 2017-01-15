@@ -1,0 +1,4 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+- When you're working using a public machine. 
+- When you're working on documentation or making changes to a ".txt" file. 
